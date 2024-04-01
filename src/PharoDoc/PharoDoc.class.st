@@ -1,9 +1,6 @@
 "
 Class: Equivalent of Javadoc for Pharo.
 Responsibility: It gives a documentation similar to one of Javadoc given the name of a class.
-Collaborators: 
-For the Collaborators Part: State my main collaborators and one line about how I interact with them.
-
 "
 Class {
 	#name : #PharoDoc,
